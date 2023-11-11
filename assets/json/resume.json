@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "name": "",
-      "position": "Quantitative analyst",
+      "name": "Citigroup Global Markets, London, UK",
+      "position": " Quantitative analyst",
       "url": "https://example.com",
       "startDate": "2019-08-27",
       "endDate": "",
@@ -41,7 +41,7 @@
       "institution": "University of Cambridge, Cambridge, UK",
       "url": "https://www.cam.ac.uk/",
       "area": "Computational fluid dynamics",
-      "studyType": "PhD",
+      "studyType": " PhD",
       "startDate": "2014-10-01",
       "endDate": "2019-01-31",
       "score": "",
@@ -53,7 +53,11 @@
   "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+        "programming": "c++"
+    }
+  ],
   "languages": [
     {
       "language": "Chinese",
