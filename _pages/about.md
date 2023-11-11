@@ -24,7 +24,7 @@ Hi, my name is Zekang Cheng (程泽康). Currently I am a quantitative analyst i
 </p>
 
 <div style='text-align: justify;'>
-I obtained my Ph.D. degress at the [Engineering Department](http://www.eng.cam.ac.uk/) at University of Cambridge, advised by [Dr. Jie Li](https://www.ieef.cam.ac.uk/user/jl305). 
+I obtained my Ph.D. degress at the <a href="http://www.eng.cam.ac.uk/">Engineering Department</a> at University of Cambridge, advised by [Dr. Jie Li](https://www.ieef.cam.ac.uk/user/jl305). 
 </p>
 
 <div style='text-align: justify;'>
