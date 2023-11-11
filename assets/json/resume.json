@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Citigroup Global Markets, London, UK",
-      "position": " Quantitative analyst",
+      "position": "   Quantitative analyst",
       "url": "https://example.com",
       "startDate": "2019-08-27",
       "endDate": "",
@@ -34,6 +34,15 @@
         "Relativity"
       ]
     }
+    {
+       "name": "Citigroup Global Markets, London, UK",
+       "position": "   Off-cycle Inter",
+       "startDate": "2018-07-01",
+       "endDate": "2018-12-31",
+       "summary": "",
+       "highlights": [
+       ]
+    }
   ],
   "volunteer": [],
   "education": [
@@ -41,7 +50,7 @@
       "institution": "University of Cambridge, Cambridge, UK",
       "url": "https://www.cam.ac.uk/",
       "area": "Computational fluid dynamics",
-      "studyType": " Ph. D.",
+      "studyType": "   Ph. D.",
       "startDate": "2014-10-01",
       "endDate": "2019-01-31",
       "score": "",
@@ -53,7 +62,7 @@
       "institution": "University of Science and Technology of China, Hefei, China",
        "url": "https://en.ustc.edu.cn/", 
        "area": "", 
-       "studyType": " B.S.",
+       "studyType": "   B.S.",
        "startDate": "2010-08-15",
        "endDate": "2014-06-20",
        "courses": [
