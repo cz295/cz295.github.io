@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zekang Cheng",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "zkcheng721@gmail.com",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://cz295.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "16C Inwood Crescent",
+      "postalCode": "BN1 5AQ",
+      "city": "Brighton",
+      "countryCode": "UK",
+      "region": "East Sussex"
     },
     "profiles": [
       {
