@@ -6,7 +6,7 @@
 #    - name: Date of Birth
 #      value: 14th March 1879
     - name: E-mail
-      value: zkcheng1994@outlook.com
+      value: <a href="mailto:zkcheng1994:@outlook.com">zkcheng1994@outlook.com</a>
     - name: Languages
       value: Chinese (native), English (fluent)
 
