@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
+    title: Dripping
     description: Simulation of a droplet formation from a dripping faucet
     img: /assets/img/1.jpg
     ---
