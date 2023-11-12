@@ -9,7 +9,7 @@ related_publications:
 ---
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm">
         {% include figure.html path="assets/img/dripping.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
