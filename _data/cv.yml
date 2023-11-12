@@ -19,13 +19,11 @@
         - title: Description 3.
           contents:
             - Sub-description 1.
-            - Sub-description 2.
-    - title: B.S. in theoretical and applied mechanics
+    - title: B.S. in Theoretical and Applied Mechanics
       institution: University of Science and Technology of China, Hefei, China
       year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis title: A numerical and experimental investigation of a water droplet impact on an oil-air interface.
 
 - title: Experience
   type: time_table
@@ -42,10 +40,11 @@
       institution: Market and Securities Services Citigroup, London
       year: 2018.07 - 2018.12
       description:
-        - title: Equities central risk desk:
+        - title: Equities central risk desk (CRD):
           contents:
-            - Description 1.
-            - Description 2.
+            - Analysted the toxicity of equities flows into CRD and automated reporting of CRD's PnL attribution;
+            - Calibrated the trade volume profile used in the transaction cost model of CRD's portfolio optimisation tool;
+            - Analysed the execution performance at difference trading venues using pre/post-trade price.
 
 
 
