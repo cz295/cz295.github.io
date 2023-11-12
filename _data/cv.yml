@@ -22,7 +22,7 @@
       institution: University of Science and Technology of China, Hefei, China
       year: 2014
       description:
-        - Thesis title  A numerical and experimental investigation of a water droplet impact on an oil-air interface.
+        - Thesis title %:  A numerical and experimental investigation of a water droplet impact on an oil-air interface.
 
 - title: Experience
   type: time_table
@@ -31,10 +31,18 @@
       institution: Market and Securities Services, Citigroup, London
       year: 2019.08 - Now
       description:
-        - title: Description 3.
+        - title: FX STIRT (short term interest rate trading) Quant
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Analysed FX swap request data and developped a method to identify roll-over trades;
+            - Implemented post-trade STIR-component aftermath calculation for NDF deals;
+            - Built a data pipeline from scratch to process the booking data of voice FX & NDF trading;
+            - Developped a PnL attribution model to measure the value of client flow for voice FX & NDF trading;
+            - Improved the STIRT PnL valuation model by including derivatives and futures in risk matching calculation.
+        - title: FX options quant and trading
+          contents:
+            - Developed a flexible & efficient backtester for FX options trading strategies;
+            - Backtested relative value trade strategies for FX options and performed PnL attribution;
+            - Measured vega risk netting effect of vanilla FX option structures through backtesting.
     - title: Off-cycling Intern
       institution: Market and Securities Services Citigroup, London
       year: 2018.07 - 2018.12
@@ -80,14 +88,14 @@
 - title: Skills
   type: list
   contents:
-  - <u>Proficient:</u> Python, C;
-  - <u>Intermediate:</u> C++, Latex;
-  - <u>Basic:</u> C#, Git, kdb+/q.
+  - <b>Proficient:</b> Python, C;
+  - <b>Intermediate:</b> C++, Latex, SQL, Git;
+  - <b>Basic:</b> C#, Bash, kdb+/q.
 
 - title: Other Information
   type: list
   contents:
-    - <u>Hobbies:</u> swimming, cycling, running, reading and hillwalking.
-    - <u>Societies:</u> Brighton Tri Club, Brighton Mitre Cycling Club, Cambridge University Hillwalking Club (Treasurer 2017), Cambridge University Canoe Club, Queens' College Boat Club, School of Gifted Young football team (freshers' team captain 2011).
+    - <b>Hobbies:</b> swimming, cycling, running, reading and hillwalking.
+    - <b>Societies:</b> Brighton Tri Club, Brighton Mitre Cycling Club, Cambridge University Hillwalking Club (Treasurer 2017), Cambridge University Canoe Club, Queens' College Boat Club, School of Gifted Young football team (freshers' team captain 2011).
     - <b>Publication:</b> < 
 #    Cheng, Zekang, et al. An exactly force-balanced boundary-conforming arbitrary-Lagrangian-Eulerian method for interfacial dynamics. Journal of Computational Physics 408 (2020): 109237.
