@@ -16,7 +16,7 @@ layout: default
         <a class="anchor" id="{{ entry.title }}"></a>
         <div class="card mt-3 p-3">
           <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-          <div>
+          <div style='text-align: justify'>
           {% if entry.type == "list" %}
             {% include cv/list.html %}
           {% elsif entry.type == "map" %}
