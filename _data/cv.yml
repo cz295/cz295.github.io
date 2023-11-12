@@ -15,14 +15,17 @@
       institution: University of Cambridge, Cambridge, UK
       year: 2019
       description:
-        - title: Description 3.
+        - title: 'Thesis title: A moving mesh method for non-isothermal multiphase flows.'
           contents:
-            - Sub-description 1.
+            - Incorporated non-isothermal effects into the finite element code (in C) for isothermal multiphase flows;
+            - Developped a numerical treatment of interface topology change in an adaptive moving mesh system;
+            - Examined the accuracy & capability of the numerical method with benchmark tests and designed examples;
+            - Investigated drop collision and non-isothermal liquid bridge break-up through numerical simulation;
     - title: B.S. in Theoretical and Applied Mechanics
       institution: University of Science and Technology of China, Hefei, China
       year: 2014
       description:
-        - 'Thesis title :  A numerical and experimental investigation of a water droplet impact on an oil-air interface.'
+        - 'Thesis title: A numerical and experimental investigation of a water droplet impact on an oil-air interface.'
 
 - title: Experience
   type: time_table
@@ -98,4 +101,4 @@
     - <b>Hobbies:</b> swimming, cycling, running, reading and hillwalking.
     - <b>Societies:</b> Brighton Tri Club, Brighton Mitre Cycling Club, Cambridge University Hillwalking Club (Treasurer 2017), Cambridge University Canoe Club, Queens' College Boat Club, School of Gifted Young football team (freshers' team captain 2011).
     - <b>Publication:</b> >
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999120300115">"Cheng, Zekang, et al. An exactly force-balanced boundary-conforming arbitrary-Lagrangian-Eulerian method for interfacial dynamics. Journal of Computational Physics 408 (2020) 109237."</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999120300115">Cheng, Zekang, et al. An exactly force-balanced boundary-conforming arbitrary-Lagrangian-Eulerian method for interfacial dynamics. Journal of Computational Physics 408 (2020) 109237.</a>
