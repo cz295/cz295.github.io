@@ -100,7 +100,7 @@
 - title: Miscellaneous
   type: list
   contents:
-    - <b>Other relevant projects:</b>
+    - title: <b>Other relevant projects</b>
         items:
         - x
         - u
