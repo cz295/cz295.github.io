@@ -17,7 +17,7 @@
       institution: University of Cambridge, Cambridge, UK
       year: 2019
       description:
-        - title: <a href="https://www.repository.cam.ac.uk/items/448eff33-9832-4cfb-b9b6-ade248f19892">Thesis</a>': A moving mesh method for non-isothermal multiphase flows'
+        - title: <a href="https://www.repository.cam.ac.uk/items/448eff33-9832-4cfb-b9b6-ade248f19892">Thesis</a> ': A moving mesh method for non-isothermal multiphase flows'
           contents:
             - Incorporated non-isothermal effects into the finite element code (in C) for isothermal multiphase flows;
             - Developped a numerical treatment of interface topology change in an adaptive moving mesh system;
