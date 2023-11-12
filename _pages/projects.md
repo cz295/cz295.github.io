@@ -21,9 +21,11 @@ horizontal: false
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
+    <div style='text-align: justify'>
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
+    </div>
     </div>
   </div>
   {%- else -%}
