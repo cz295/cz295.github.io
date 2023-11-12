@@ -39,7 +39,7 @@
       institution: Market and Securities Services Citigroup, London
       year: 2018
       description:
-        - title: Equities central risk desk (CRD):
+        - title: Equities central risk desk (CRD)
           contents:
             - Analysted the toxicity of equities flows into CRD and automated reporting of CRD's PnL attribution;
             - Calibrated the trade volume profile used in the transaction cost model of CRD's portfolio optimisation tool;
