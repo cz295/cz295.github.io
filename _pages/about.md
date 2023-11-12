@@ -20,10 +20,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <div style='text-align: justify;'>
-Hi, my name is Zekang Cheng (程泽康), I came from <a href="https://en.wikipedia.org/wiki/Linquan_County">Linquan</a>, <a href="https://en.wikipedia.org/wiki/Anhui">Anhui</a> (安徽临泉). Currently I am a quantitative analyst in Citigroup, based in London. I work with the trade data of FX STIRT (Short Term Interest Rate Trading) and voice FX trading. I have also worked in FX options trading and quant team, as well as the Equities central risk team.
+Hi, my name is Zekang Cheng (程泽康) and I came from <a href="https://en.wikipedia.org/wiki/Linquan_County">Linquan</a>, <a href="https://en.wikipedia.org/wiki/Anhui">Anhui</a> (安徽临泉). Currently I am a quantitative analyst in Citigroup, based in London. I work with the trade data of FX STIRT (Short Term Interest Rate Trading) and voice FX trading. I have also worked in FX options trading and quant team, as well as the Equities central risk team.
 <br/><br/>
-I obtained my Ph.D. degress at the <a href="http://www.eng.cam.ac.uk/">Engineering Department</a> at University of Cambridge, advised by <a href="https://www.ieef.cam.ac.uk/user/jl305">Dr. Jie Li</a>.My Ph.D. research focused on a numerical method to simulate multi-phase flows using an adaptive moving mesh. Before Cambridge, I studied in <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a> and graduated in 2014 with a Bachelor's degree in theoretical and applied mechanics. 
+I obtained my Ph.D. degress at the <a href="http://www.eng.cam.ac.uk/">Engineering Department</a> at University of Cambridge, advised by <a href="https://www.ieef.cam.ac.uk/user/jl305">Dr. Jie Li</a>. My Ph.D. research focused on a numerical method to simulate multi-phase flows using an adaptive moving mesh. Before Cambridge, I studied in <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a> and graduated in 2014 with a Bachelor's degree in theoretical and applied mechanics. 
 <br/><br/>
-In my free time, I enjoy swimming, cycling, running, reading and hillwalking. I am training for Ironman Wales 2024 at the moment. 
+In my free time, I enjoy swimming, cycling, running, reading and hillwalking. Having done a few triathlons, I am now training for Ironman Wales 2024.  
 </div>
 
