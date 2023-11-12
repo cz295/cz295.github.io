@@ -15,7 +15,6 @@
       institution: University of Cambridge, Cambridge, UK
       year: 2019
       description:
-        - Thesis: 
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -23,7 +22,7 @@
       institution: University of Science and Technology of China, Hefei, China
       year: 2014
       description:
-        - Thesis title: A numerical and experimental investigation of a water droplet impact on an oil-air interface.
+        - Thesis title &: A numerical and experimental investigation of a water droplet impact on an oil-air interface.
 
 - title: Experience
   type: time_table
