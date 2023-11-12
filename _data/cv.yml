@@ -98,12 +98,9 @@
   - <b>Basic:</b> C#, Bash, kdb+/q.
 
 - title: Miscellaneous
-  type: nested_list
+  type: list
   contents:
-    - title: <b>Other relevant projects</b>
-        items:
-        - x
-        - u
-    - title: <b>Hobbies:</b> swimming, cycling, running, reading and hillwalking.
-    - title: <b>Societies:</b> Brighton Tri Club, Brighton Mitre Cycling Club, Cambridge University Hillwalking Club (Treasurer 2017), Cambridge University Canoe Club, Queens' College Boat Club, School of Gifted Young football team (freshers' team captain 2011).
-    - title: <b>Publication:</b> Cheng, Zekang, et al. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999120300115">An exactly force-balanced boundary-conforming arbitrary-Lagrangian-Eulerian method for interfacial dynamics.</a> <i>Journal of Computational Physics</i> 408 (2020) 109237.
+    - <b>Other relevant projects</b>
+    - <b>Hobbies:</b> swimming, cycling, running, reading and hillwalking.
+    - <b>Societies:</b> Brighton Tri Club, Brighton Mitre Cycling Club, Cambridge University Hillwalking Club (Treasurer 2017), Cambridge University Canoe Club, Queens' College Boat Club, School of Gifted Young football team (freshers' team captain 2011).
+    - <b>Publication:</b> Cheng, Zekang, et al. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999120300115">An exactly force-balanced boundary-conforming arbitrary-Lagrangian-Eulerian method for interfacial dynamics.</a> <i>Journal of Computational Physics</i> 408 (2020) 109237.
