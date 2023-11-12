@@ -43,7 +43,7 @@
             - Developed a flexible & efficient backtester for FX options trading strategies;
             - Backtested relative value trade strategies for FX options and performed PnL attribution;
             - Measured vega risk netting effect of vanilla FX option structures through backtesting.
-    - title: Off-cycling Intern
+    - title: Off-cycle Intern
       institution: Market and Securities Services Citigroup, London
       year: 2018.07 - 2018.12
       description:
@@ -98,4 +98,4 @@
     - <b>Hobbies:</b> swimming, cycling, running, reading and hillwalking.
     - <b>Societies:</b> Brighton Tri Club, Brighton Mitre Cycling Club, Cambridge University Hillwalking Club (Treasurer 2017), Cambridge University Canoe Club, Queens' College Boat Club, School of Gifted Young football team (freshers' team captain 2011).
     - <b>Publication:</b> < 
-   'Cheng, Zekang, et al. An exactly force-balanced boundary-conforming arbitrary-Lagrangian-Eulerian method for interfacial dynamics. Journal of Computational Physics 408 (2020): 109237.'
+   ['Cheng, Zekang, et al. An exactly force-balanced boundary-conforming arbitrary-Lagrangian-Eulerian method for interfacial dynamics. Journal of Computational Physics 408 (2020): 109237.'](https://www.sciencedirect.com/science/article/abs/pii/S0021999120300115)
