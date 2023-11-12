@@ -2,7 +2,7 @@
 layout: page
 title: Dripping Faucet
 description: Simulation of a droplet formation from a dripping faucet
-img: assets/img/1.jpg
+img: assets/img/12.jpg
 importance: 1
 category: PhD
 related_publications: 
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: Dripping
     description: Simulation of a droplet formation from a dripping faucet
-    img: /assets/img/1.jpg
+    img: /assets/img/12.jpg
     ---
 
 <div class="row">
