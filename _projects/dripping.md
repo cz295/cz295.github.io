@@ -20,8 +20,6 @@ To give your project a background in the portfolio page, just add the img tag to
     description: Simulation of a droplet formation from a dripping faucet
     img: /assets/img/12.jpg
     ---
-<img src="assets/img/dripping.gif">
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
