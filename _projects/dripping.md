@@ -2,7 +2,7 @@
 layout: page
 title: Dripping Faucet
 description: Simulation of a droplet formation from a dripping faucet
-img: assets/img/dripping.gif
+img: assets/img/1.jpg
 importance: 1
 category: PhD
 related_publications: 
