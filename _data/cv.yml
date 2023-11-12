@@ -98,7 +98,7 @@
   - <b>Basic:</b> C#, Bash, kdb+/q.
 
 - title: Miscellaneous
-  type: list
+  type: nested_list
   contents:
     - title: <b>Other relevant projects</b>
         items:
