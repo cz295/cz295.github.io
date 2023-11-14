@@ -22,7 +22,7 @@ Droplet formation from a faucet and the generation of satellite droplets. (inter
 <div class="row justify-content-center">
 <div class = "center">
 <div class="col-sm">
-{% include figure.html path="assets/img/dripping_free_flat.eps" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/pere.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 </div>
