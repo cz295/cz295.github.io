@@ -4,7 +4,7 @@ title: project_1
 description: Simulation of binary droplet head-on collision
 img: assets/img/12.jpg
 importance: 2
-category: work
+category: PhD
 related_publications: 
 ---
 
