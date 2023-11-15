@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project_1 
+title: Droplet collision 
 description: Simulation of binary droplet head-on collision
 img: assets/img/12.jpg
-importance: 2
+importance: 3
 category: PhD
 related_publications: 
 ---
@@ -11,7 +11,7 @@ related_publications:
 <div class="row justify-content-center">
 <div class = "center">
 <div class="col-sm">
-{% include figure.html path="assets/img/bouce.png" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/bounce.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 </div>

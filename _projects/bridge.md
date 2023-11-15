@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project_1 
+title: Non-isothermal liquid bridge breakup 
 description: Simulation of non-isothermal liquid bridge
 img: assets/img/12.jpg
-importance: 2
+importance: 4
 category: PhD
 related_publications: 
 ---
