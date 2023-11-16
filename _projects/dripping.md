@@ -7,6 +7,8 @@ importance: 2
 category: PhD
 related_publications: 
 ---
+<div class="row justify-content-center">
+<div class = "center">
 
 The formation of droplets from a faucet is widely observed in everyday life. At the end of a tap, a pendant drop forms and grows very slowly until 
 its size exceeds a certain limit. The droplet elongates, forms a neck in the middle and eventually detachs from the faucet. The final breakup process 
@@ -15,6 +17,9 @@ a numerical or analytical method.
 
 A numerical treatment for interface topology change has been implemented to solve issues like this and we successfully simulated an experiment of water 
 droplet formation from a faucet.
+
+</div>
+</div>
 
 <div class="row justify-content-center">
 <div class = "center">
