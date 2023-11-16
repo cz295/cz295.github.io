@@ -8,9 +8,10 @@ category: PhD
 related_publications: 
 ---
 
-In multiphase flows, the key factor is the presence of an interface separating different phases. Many physical properties, for example density and viscosity, are discontinuous across the interface. The interface also possesses localised properties, the most prominent of which is the interfacial tension. Furthermore, owing to the fact that the interface is a moving boundary, the evolution of the interface is coupled with the velocity field and pressure, and all of these must be determined simultaneously
+In multiphase flows, the key factor is the presence of an interface separating different phases. Many physical properties, for example density and viscosity, are discontinuous across the interface. The interface also possesses localised properties including the interfacial tension. Furthermore, owing to the fact that the interface is a moving boundary, the evolution of the interface is coupled with the velocity field and pressure, and all of these must be determined simultaneously
 
-We adopted an approach to track the interface explicitly and developped an adaptive moving mesh generator to follow the interface evolution. The computational mesh is constantly refined or coarsened based on the shape of the interface. 
+We adopted an approach to track the interface explicitly on a unstructured triangular mesh. An adaptive moving mesh generator was developped to follow the interface evolution and to constanly refine/coarse the compuational mesh. In general, finer mesh is required near the interface as interfacial tension is the driving force in problems we interested in. Applying a coarser mesh in regions far away from the interface also reduces the computing costs.
+
 
 <div class="row justify-content-center">
 <div class = "center">
@@ -20,7 +21,7 @@ We adopted an approach to track the interface explicitly and developped an adapt
 </div>
 </div>
 <div class="caption">
-Mesh generation: The goal is to generate a circular interface (drawn in blue). 
+Mesh generation: The goal is to generate a circular interface (drawn in blue). We started with just 3 nodes on the interface and gradually refined the mesh. In the final mesh, the region near the interface has much higher mesh density.
 </div>
 
 <div class="row justify-content-center">
