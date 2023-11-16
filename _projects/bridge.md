@@ -30,7 +30,7 @@ This video shows the experimental study of a liquid bridge breakup driven by the
 We used our method to investigate the thermocapillary driven break-up of a liquid bridge. A group of scientists have studied this problem experimentally in the International Space Station, but numerical simulation enables us to thoroughly investigate the role played by thermocapillary force.
 <br/>
 <br/>
-In an <a href="https://www.youtube.com/watch?v=pPkZWjo8Ow8&ab_channel=MatarFluidsGroup">isothermal scenario</a>, a long liquid thread forms in the middle of the liquid bridge and ends up as a satellite droplet after pinch-off. The break-up shape is symmetrical with respect to the centre of the liquid bridge. With the presence of thermocapillarity, the flow along the interface is towards the warm end, which undoubtly breaks the up-and-down symmetry. Based on dimensional analysis, three dimensionless numbers are required to define this problem: <i>Oh</i>, <i>Ca</i> and <i>Pr</i>. We studied the effect of <i>Ca</i> number, which represents the relative importance of thermocapillarity. Below shows two distinct break-up shape with a large and small <i>Ca</i> number.
+In an <a href="https://www.youtube.com/watch?v=pPkZWjo8Ow8&ab_channel=MatarFluidsGroup">isothermal scenario</a>, a long liquid thread forms in the middle of the liquid bridge and ends up as a satellite droplet after pinch-off. The break-up shape is symmetrical with respect to the centre of the liquid bridge. With the presence of thermocapillarity, the flow along the interface is towards the warm end, which undoubtedly breaks the up-and-down symmetry. Based on dimensional analysis, three dimensionless numbers are required to define this problem: <i>Oh</i>, <i>Ca</i> and <i>Pr</i>. We studied the effect of <i>Ca</i> number, which represents the relative importance of thermocapillarity. Below shows two distinct break-up shape with a large and small <i>Ca</i> number.
 </div>
 
 <div class="row justify-content-center">
@@ -39,7 +39,7 @@ In an <a href="https://www.youtube.com/watch?v=pPkZWjo8Ow8&ab_channel=MatarFluid
 {% include figure.html path="assets/img/oh_001_ca_02.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
-Temporal evolution of the interface shape and the thermal field in the simulation with Oh = 0.01, Ca = 0.2 and Pr = 5. Thermocapillary flow along the interface is strong in this example, preventing the thining of the liquid bridge in the warmer end, and it separates the liquid bridge into two parts without satellites droplets.
+Temporal evolution of the interface shape and the thermal field in the simulation with Oh = 0.01, Ca = 0.2 and Pr = 5. Thermocapillary flow along the interface is strong in this example, preventing the thinning of the liquid bridge in the warmer end, and it separates the liquid bridge into two parts without satellites droplets.
 </div>
 
 <div class="caption">
