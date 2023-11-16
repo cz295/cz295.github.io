@@ -21,7 +21,7 @@ dominant and leads to an inevitable coalescence outcome. To accurately simulate 
 force are modelled correctly, and the computational mesh is required to resolve a large disparity in length scales from millimetre to nanometre.
 <br/>
 <br/>
-Our numerial method correctly identified the threshold <i>We</i> number and the simulation results fit the experimental results to a satisfatory level. 
+Our numerical method correctly identified the threshold <i>We</i> number and the simulation results fit the experimental results to a satisfactory level. 
 </div>
 
 <div class="row justify-content-center">
