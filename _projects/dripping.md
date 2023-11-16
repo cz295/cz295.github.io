@@ -40,6 +40,6 @@ Droplet formation from a faucet and the generation of satellite droplets. (inter
 </div>
 </div>
 <div class="caption">
-Droplet formation from a faucet and the generation of satellite droplets. (interface in blue and the computational mesh in red)
+The simulation results are superposed on the photograph from the experiment of <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/bifurcation-of-liquid-bridges/A2E5D4B09C6214E085A1AE49C589F5C3">Peregrine et al. (1990)</a>
 </div>
 
