@@ -9,7 +9,7 @@ related_publications:
 ---
 <div style='text-align: justify;'>
 The formation of droplets from a faucet is widely observed in everyday life. At the end of a tap, a pendant drop forms and grows very slowly until 
-its size exceeds a certain limit. The droplet elongates, forms a neck in the middle and eventually detachs from the faucet. The final breakup process 
+its size exceeds a certain limit. The droplet elongates, forms a neck in the middle and eventually detaches from the faucet. The final breakup process 
 is a critical phenomenon connected to a singularity of the nonlinear Navier-Stokes equation with interface. It is a challenging issue to address for 
 a numerical or analytical method.
 <br/>
