@@ -30,19 +30,30 @@ In general, interfacial tension decreases as the temperature increases. As a res
 We used our method to investigate the thermocapillary driven break-up of a liquid bridge. A group of scientists have studied this problem experimentally in the International Space Station, but numerical simulation enables us to thoroughly investigate the role played by thermocapillary force.
 <br/>
 <br/>
-Based on dimensional analysis, three dimensionless numbers are required to define this problem: <i>Oh</i>, <i>Ca</i> and <i>Pr</i>. We explored the parameter spaces of <i>Oh</i> and <i>Ca</i>. Three distinct break-up regime were identified. 
+Based on dimensional analysis, three dimensionless numbers are required to define this problem: <i>Oh</i>, <i>Ca</i> and <i>Pr</i>. We explored the parameter spaces of <i>Oh</i> and <i>Ca</i>. Below are two examples from the simulation.
 </div>
 
 
 <div class="row justify-content-center">
 <div class = "center">
 <div class="col-sm">
-{% include figure.html path="assets/img/gen_mesh.png" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/oh_001_ca_02.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 </div>
 <div class="caption">
-Mesh generation: The goal is to generate a circular interface (drawn in red). We started with just 3 nodes on the interface and gradually refined the mesh. In the final mesh, the region near the interface has much lower mesh size.
+
+</div>
+
+<div class="row justify-content-center">
+<div class = "center">
+<div class="col-sm">
+{% include figure.html path="assets/img/oh_001_ca_005.png" title="example image" class="img-fluid rounded z-depth-1" %}
+</div>
+</div>
+</div>
+<div class="caption">
+
 </div>
 
 
