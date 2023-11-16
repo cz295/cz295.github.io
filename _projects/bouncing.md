@@ -15,9 +15,14 @@ deformation; and 4) coalescence followed by separation with the generation of se
 to regime 2).
 <br/>
 <br/>
-The gas film between the two droplets play an important role 
+The gas film between the two droplets play an important role. As the gas film is squeezed by the droplet, rarefied gas effect become important and this will 
+prevent the two droplets getting closer. But once the distance between the two droplet gets lower than the mean free path, <i>van der Waals</i> force becomes 
+dominant and leads to an inevitable coalescence outcome. To accurately simulate this problem, it is required that the rarefied gas effect and <i> van der Waals</i> 
+force are modelled correctly, and the computational mesh is required to resolve a large disparity in length scales from millimetre to nanometre.
+<br/>
+<br/>
+Our numerial method correctly identified the threshold <i>We</i> number and the simulation results fit the experimental results to a satisfatory level. 
 </div>
-
 
 <div class="row justify-content-center">
 <div class = "center">
@@ -28,8 +33,7 @@ The gas film between the two droplets play an important role
 </div>
 <div class="caption">
 Simulated sequences (in red) of the head-on collision of binary
-tetradecane in air at atmospheric pressure superposed onto the experimental re-
-sults by <a href="https://pubs.aip.org/aip/jap/article-abstract/103/6/064901/284444/Experimental-and-mechanistic-description-of?redirectedFrom=fulltext">Pan et al. (2008) </a>. The diameter D = 214.4 µm, the relative impact velocity is V = 0.604 m/s and We = 2.25.
+tetradecane in air at atmospheric pressure superposed onto the experimental results by <a href="https://pubs.aip.org/aip/jap/article-abstract/103/6/064901/284444/Experimental-and-mechanistic-description-of?redirectedFrom=fulltext">Pan et al. (2008) </a>. The diameter D = 214.4 µm, the relative impact velocity is V = 0.604 m/s and We = 2.25.
 </div>
 
 
@@ -67,7 +71,7 @@ impact velocity V = 0.229 m/s and W e = 2.27.
 </div>
 </div>
 <div class="caption">
-Animation of binary droplet collision with a bounce outcome (from the above simulalation).
+Animation of binary droplet collision with a bounce outcome (from the above simulation).
 </div>
 
 
