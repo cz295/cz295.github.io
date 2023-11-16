@@ -8,14 +8,8 @@ category: PhD
 related_publications: 
 ---
 
-<html>
-   <head>
-      <title>HTML Video embed</title>
-   </head>
-   <body>
-      <p>Learn Eclipse</p>
-      <br />
-      <iframe width="560" height="315" src="https://arxiv.org/src/1210.4073v1/anc/Gallery_of_Fluid_Motion_016.mp4" frameborder="0" allowfullscreen></iframe>
-      </iframe>
-   </body>
-</html>
+<video width="320" height="240" controls="controls">
+  <source src="https://arxiv.org/src/1210.4073v1/anc/Gallery_of_Fluid_Motion_016.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+  /* instead of the last line you could also add the flash player*/
+</video>
