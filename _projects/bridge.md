@@ -40,7 +40,9 @@ Based on dimensional analysis, three dimensionless numbers are required to defin
 {% include figure.html path="assets/img/oh_001_ca_02.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
+Temporal evolution of the interface shape and the thermal field in the simulation with Oh = 0.01, Ca = 0.2 and Pr = 5. Thermocapillary flow along the interface is strong in this example, and it separates the liquid bridge into two parts without satellites droplets.
 </div>
+
 <div class="caption">
 
 </div>
@@ -51,6 +53,7 @@ Based on dimensional analysis, three dimensionless numbers are required to defin
 {% include figure.html path="assets/img/oh_001_ca_005.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
+Temporal evolution of the interface shape and the thermal field in the simulation with Oh = 0.01, Ca = 0.05 and Pr = 5. Thermocapillary flow is not as strong in this example and this break-up is similar to a non-isothermal liquid bridge breakup with a satellite droplets. Since the thermocapillary flow is towards the upper warmer end, the thinning of the liquid neck in the upper part is delayed and this leads to the asymmetric break-up shape.
 </div>
 <div class="caption">
 
