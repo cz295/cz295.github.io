@@ -11,7 +11,8 @@ related_publications:
 <div class = "center">
 
 In multiphase flows, the key factor is the presence of an interface separating different phases. Many physical properties, for example density and viscosity, are discontinuous across the interface. The interface also possesses localised properties including the interfacial tension. Furthermore, owing to the fact that the interface is a moving boundary, the evolution of the interface is coupled with the velocity field and pressure, and all of these must be determined simultaneously
-</br>
+<br/>
+<br/>
 We adopted an approach to track the interface explicitly on a unstructured triangular mesh. An adaptive moving mesh generator was developped to follow the interface evolution and to constanly refine/coarse the compuational mesh. In general, finer mesh is required near the interface as interfacial tension is the driving force in problems we interested in. Applying a coarser mesh in regions far away from the interface also reduces the computing costs.
 </div>
 </div>
