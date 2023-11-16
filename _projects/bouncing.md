@@ -11,11 +11,13 @@ related_publications:
 Droplet collision occurs frequently in many natural and industrial processes, for example, the formation of raindrops, spray and atomisation. This problem 
 can be characterised by a dimensionless number, the <i>Weber</i> number. Experimental studies on the head-on collision of droplets of equal size have 
 identified four distinct outcomes with increasing values of <i> We </i> number: 1) coalescence after minor deformation; 2) bouncing; 3) coalescence after large
-deformation; and 4) coalescence followed by separation with the generation of secondary droplets. We are interested in the determining force from regime 1) and regime 2).
+deformation; and 4) coalescence followed by separation with the generation of secondary droplets. Our simulation focused on the transition from region 1) 
+to regime 2).
 <br/>
 <br/>
 The gas film between the two droplets play an important role 
 </div>
+
 
 <div class="row justify-content-center">
 <div class = "center">
@@ -25,7 +27,9 @@ The gas film between the two droplets play an important role
 </div>
 </div>
 <div class="caption">
-Droplet formation from a faucet and the generation of satellite droplets. (interface in blue and the computational mesh in red)
+Simulated sequences (in red) of the head-on collision of binary
+tetradecane in air at atmospheric pressure superposed onto the experimental re-
+sults by <a href="https://pubs.aip.org/aip/jap/article-abstract/103/6/064901/284444/Experimental-and-mechanistic-description-of?redirectedFrom=fulltext">Pan et al. (2008) </a>. The diameter D = 214.4 µm, the relative impact velocity is V = 0.604 m/s and We = 2.25.
 </div>
 
 
@@ -37,7 +41,7 @@ Droplet formation from a faucet and the generation of satellite droplets. (inter
 </div>
 </div>
 <div class="caption">
-Droplet formation from a faucet and the generation of satellite droplets. (interface in blue and the computational mesh in red)
+The computational mesh before and after droplet coalescence.
 </div>
 
 
@@ -49,7 +53,10 @@ Droplet formation from a faucet and the generation of satellite droplets. (inter
 </div>
 </div>
 <div class="caption">
-Droplet formation from a faucet and the generation of satellite droplets. (interface in blue and the computational mesh in red)
+The simulated interface is drawn in red solid lines and is superposed
+on the experimental results by <a href="https://pubs.aip.org/aip/jap/article-abstract/103/6/064901/284444/Experimental-and-mechanistic-description-of?redirectedFrom=fulltext">Pan et al. (2008) </a>. In this example, the ambient
+gas is air at atmospheric pressure, the diameter is D = 341.2 µm, the relative
+impact velocity V = 0.229 m/s and W e = 2.27.
 </div>
 
 <div class="row justify-content-center">
@@ -60,7 +67,7 @@ Droplet formation from a faucet and the generation of satellite droplets. (inter
 </div>
 </div>
 <div class="caption">
-Droplet formation from a faucet and the generation of satellite droplets. (interface in blue and the computational mesh in red)
+Animation of binary droplet collision with a bounce outcome (from the above simulalation).
 </div>
 
 
