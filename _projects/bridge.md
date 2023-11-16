@@ -24,9 +24,25 @@ This video shows the experimental study of a liquid bridge breakup driven by the
 </div>
 
 <div style='text-align: justify;'>
-In general, interfacial tension decreases as the temperature increases. As a result, non-uniform temperature can result in fluid motion along the interface, and eventually flow in the bulk fluid. This is called <b>thermocapillarity</b>.
+In general, interfacial tension decreases as the temperature increases. As a result, non-uniform temperature can result in fluid motion along the interface, and eventually flow in the bulk fluid. This is called <b>thermocapillarity</b>. To study thermocapillary flows, we incorporated non-isothermal effects into our Navier-Stokes solver and implemented a heat transfer solver.
 <br/>
 <br/>
-
+We used our method to investigate the thermocapillary driven break-up of a liquid bridge. A group of scientists have studied this problem experimentally in the International Space Station, but numerical simulation enables us to thoroughly investigate the role played by thermocapillary force.
+<br/>
+<br/>
+Based on dimensional analysis, three dimensionless numbers are required to define this problem: <i>Oh</i>, <i>Ca</i> and <i>Pr</i>. We explored the parameter spaces of <i>Oh</i> and <i>Ca</i>. Three distinct break-up regime were identified. 
 </div>
+
+
+<div class="row justify-content-center">
+<div class = "center">
+<div class="col-sm">
+{% include figure.html path="assets/img/gen_mesh.png" title="example image" class="img-fluid rounded z-depth-1" %}
+</div>
+</div>
+</div>
+<div class="caption">
+Mesh generation: The goal is to generate a circular interface (drawn in red). We started with just 3 nodes on the interface and gradually refined the mesh. In the final mesh, the region near the interface has much lower mesh size.
+</div>
+
 
