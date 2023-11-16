@@ -8,7 +8,9 @@ category: PhD
 related_publications: 
 ---
 
-The interface is the key factor in the numerical simulation of multiphase flows. We adopted an approach to track the interface explicitly and developped an adaptive moving mesh generator to follow the interface evolution. The computational mesh is constantly refined or coarsened based on the shape of the interface. 
+In multiphase flows, the key factor is the presence of an interface separating different phases. Many physical properties, for example density and viscosity, are discontinuous across the interface. The interface also possesses localised properties, the most prominent of which is the interfacial tension. Furthermore, owing to the fact that the interface is a moving boundary, the evolution of the interface is coupled with the velocity field and pressure, and all of these must be determined simultaneously
+
+We adopted an approach to track the interface explicitly and developped an adaptive moving mesh generator to follow the interface evolution. The computational mesh is constantly refined or coarsened based on the shape of the interface. 
 
 <div class="row justify-content-center">
 <div class = "center">
