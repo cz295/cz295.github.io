@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Adaptive moving mesh 
 description: Adaptive moving mesh
@@ -8,6 +8,8 @@ category: PhD
 related_publications: 
 ---
 
+The interface is the key factor in the numerical simulation of multiphase flows. We adopted an approach to track the interface explicitly and developped an adaptive moving mesh generator to follow the interface evolution. The computational mesh is constantly refined or coarsened based on the shape of the interface. 
+
 <div class="row justify-content-center">
 <div class = "center">
 <div class="col-sm">
@@ -16,7 +18,7 @@ related_publications:
 </div>
 </div>
 <div class="caption">
-Droplet formation from a faucet and the generation of satellite droplets. (interface in blue and the computational mesh in red)
+Mesh generation: The goal is to generate a circular interface (drawn in blue). 
 </div>
 
 <div class="row justify-content-center">
@@ -27,7 +29,7 @@ Droplet formation from a faucet and the generation of satellite droplets. (inter
 </div>
 </div>
 <div class="caption">
-Droplet formation from a faucet and the generation of satellite droplets. (interface in blue and the computational mesh in red)
+Constant remeshing to track the movement of a droplet (interface in blue).
 </div>
 
 
