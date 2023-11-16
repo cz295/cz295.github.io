@@ -2,7 +2,7 @@
 layout: page
 title: Droplet collision 
 description: Simulation of binary droplet head-on collision
-img: assets/img/12.jpg
+img: assets/img/bounce.gif
 importance: 3
 category: PhD
 related_publications: 
