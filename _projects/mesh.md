@@ -35,7 +35,7 @@ We adopted an approach to track the interface explicitly on a unstructured trian
 </div>
 </div>
 <div class="caption">
-Mesh generation: The goal is to generate a circular interface (drawn in red). We started with just 3 nodes on the interface and gradually refined the mesh. In the final mesh, the region near the interface has much lower mesh size.
+Mesh generation: The goal is to generate a circular interface (drawn in red). We started with just 3 nodes on the interface and gradually refined the mesh. In the final mesh, the region near the interface has much smaller mesh size.
 </div>
 
 
