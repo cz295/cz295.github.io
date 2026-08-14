@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>~/terminal — personal site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="terminal" class="terminal">
+        <div class="terminal-header">
+            <div class="traffic-lights">
+                <span class="light light-red"></span>
+                <span class="light light-yellow"></span>
+                <span class="light light-green"></span>
+            </div>
+            <span class="terminal-title" id="terminal-title">guest@terminal-website: ~</span>
+        </div>
+        <div class="tab-bar" id="tab-bar"></div>
+        <div class="terminal-body" id="terminal-body"></div>
+    </div>
+    <!-- content.js = your data (name, resume, files…). Edit this file. -->
+    <script src="content.js"></script>
+    <!-- script.js = the terminal engine. Reads from TERMINAL_CONTENT. -->
+    <script src="script.js"></script>
+</body>
+</html>
